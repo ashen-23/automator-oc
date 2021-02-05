@@ -3,6 +3,8 @@
 
 代码基于 python3，请使用前确保 python3 正确安装。
 
+执行代码：
+
 ```Shell
 # 1. 下载需要的python文件(eg: xxx.py)
 
@@ -17,7 +19,7 @@ python3 xxx.py
 - 检测项目中分类名或分类方法重名
 - 结果在终端展示，桌面会同步存放结果文档
 
-使用
+### 使用
 
 ```
 python3 CategoryChecker.py your_code_dir
